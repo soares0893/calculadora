@@ -1,0 +1,38 @@
+
+main{
+    border: 2px solid rgb(172, 168, 168);
+    background-color: rgb(46, 44, 44);
+    border-radius: 4px;
+    width: 260px;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+div{
+    font-size: 2rem;
+    text-align: end;
+    padding-right: 10px;
+    background-color: #a2f7c6;
+    border: 2px solid rgb(172, 168, 168);
+    width: 90%;
+    margin: auto;
+    height: 40px;
+
+}
+table{
+    width: 90%;
+    margin: auto;
+}
+
+button{
+    background-color: #6FF6A7;
+    width: 56px;
+    height: 40px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:active{
+    background-color: #3f9262;
+}
